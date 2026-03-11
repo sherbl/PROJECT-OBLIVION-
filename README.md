@@ -20,6 +20,12 @@ PROJECT OBLIVION is a modular Python-based security tool designed for automated 
    
    cd Project-Oblivion
    ```
+   ## ⚙️ Configuration
+Before running the tool, you need to provide your **Shodan API Key**.
+a. Navigate to `config/settings.yaml`.
+b. Replace `YOUR_SHODAN_API_KEY` with your actual key:
+   ```yaml
+   shodan_api_key: "PASTE_YOUR_KEY_HERE"
    
 2.Install dependencies:
 ```bash
