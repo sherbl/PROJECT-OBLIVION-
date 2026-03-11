@@ -16,7 +16,8 @@ PROJECT OBLIVION is a modular Python-based security tool designed for automated 
 ## 🛠 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Project-Oblivion.git](https://github.com/YOUR_USERNAME/Project-Oblivion.git)
+   git clone [https://github.com/sherbl/Project-Oblivion.git]
+   
    cd Project-Oblivion
    ```
    
